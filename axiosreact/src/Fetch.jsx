@@ -62,7 +62,7 @@ function FetchData(){
                 <h3>Post List</h3>
                 <Table striped bordered hover size="sm">
                     <thead>
-                        <tr class="table-primary">
+                        <tr class="table-info">
                             <th>UserId</th>
                             <th>ID</th>
                             <th>Title</th>
